@@ -39,19 +39,25 @@ Make a NETWORK POST request to this Google Form using any network library. [Retr
  ## Project Demo
 
  
-
+-launch
 -![Splash screen](/screenshots/launch.jpg)
 
+-Learning leaderboard
 -![Leaderboard By Learning hours](/screenshots/learning.jpg)
 
+-Skill leaderboard
 -![LeaderBoard By Skill IQ](/screenshots/skill.jpg)
 
+-Submission
 -![Submission](/screenshots/submit.jpg)
 
+-Confirmation
 -![Submission Confirmation](/screenshots/query.jpg)
 
+-Success
 -![Submission Success](/screenshots/successful.jpg)
 
+-Failed
 -![failed to submit](/screenshots/notsuccessful.jpg)
 
 ## Thank you GADS
