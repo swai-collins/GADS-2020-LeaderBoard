@@ -40,11 +40,11 @@ Make a NETWORK POST request to this Google Form using any network library. [Retr
 
  
 
-![Splash screen](/screenshots/launch.jpg)
+-![Splash screen](/screenshots/launch.jpg)
 
 -![Leaderboard By Learning hours](/screenshots/learning.jpg)
 
--![LeaderBoard By Skill IQ](skill.jpg)
+-![LeaderBoard By Skill IQ](/screenshots/skill.jpg)
 
 -![Submission](/screenshots/submit.jpg)
 
