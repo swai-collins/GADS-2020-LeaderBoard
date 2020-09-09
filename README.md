@@ -40,31 +40,19 @@ Make a NETWORK POST request to this Google Form using any network library. [Retr
 
  
 
-![Splash screen](launch.jpg)
+![Splash screen](/screenshots/launch.jpg)
 
-- Leaderboard
-	- By Learning hours
-    ![Leaderboard By Learning hours](learning.jpg)
+-![Leaderboard By Learning hours](/screenshots/learning.jpg)
 
-    - By Skill IQ
-    ![Leaderboard By Skill IQ](skill.jpg)
+-![LeaderBoard By Skill IQ](skill.jpg)
 
-- Submission
+-![Submission](/screenshots/submit.jpg)
 
-![Submission](submit.jpg)
+-![Submission Confirmation](/screenshots/query.jpg)
 
+-![Submission Success](/screenshots/successful.jpg)
 
-- Confirmation
-
-![Submission Confirmation](query.jpg)
-
-- Success
-
-![Submission Success](successful.jpg)
-
--failed
-
-![failed to submit](notsuccessful.jpg)
+-![failed to submit](/screenshots/notsuccessful.jpg)
 
 ## Thank you GADS
 I'd like to thank **Google**, **Andela**, **Pluralsight** and *every single individual* that helped in bringing this learning experience to Africa developers. Thank you!
