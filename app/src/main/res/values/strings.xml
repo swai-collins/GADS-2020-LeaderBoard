@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LeaderBoard</string>
+    <string name="image_png">TODO</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="submit">SUBMIT</string>
+    <string name="submission_succesful">Submission Succesful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+
+</resources>
