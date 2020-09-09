@@ -38,17 +38,16 @@ Make a NETWORK POST request to this Google Form using any network library. [Retr
 
  ## Project Demo
 
- - Splash screen
+ 
 
 ![Splash screen](launch.jpg)
 
-- - Leaderboard
+- Leaderboard
 	- By Learning hours
     ![Leaderboard By Learning hours](learning.jpg)
 
     - By Skill IQ
-
-![Leaderboard By Skill IQ](skill.jpg)
+    ![Leaderboard By Skill IQ](skill.jpg)
 
 - Submission
 
@@ -64,6 +63,7 @@ Make a NETWORK POST request to this Google Form using any network library. [Retr
 ![Submission Success](successful.jpg)
 
 -failed
+
 ![failed to submit](notsuccessful.jpg)
 
 ## Thank you GADS
