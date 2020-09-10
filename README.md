@@ -38,20 +38,20 @@ Make a NETWORK POST request to this Google Form using any network library. [Retr
 
  ## Project Demo
 
--![Splash screen](/screenshots/launch.jpg)
+<p float = "left">
+<img src = "screenshots/launch.jpg" width = 200>
+<img src = "screenshots/learning.jpg" width = 200>
+<img src = "screenshots/skill.jpg" width = 200>
+<img src = "screenshots/submit.jpg" width = 200>
+<img src = "screenshots/query.jpg" width = 200>
+<img src = "screenshots/successful.jpg" width = 200>
+<img src = "screenshots/notsuccessful.jpg" width = 200>
+</p>
 
--![Leaderboard By Learning hours](/screenshots/learning.jpg)
 
--![LeaderBoard By Skill IQ](/screenshots/skill.jpg)
-
--![Submission](/screenshots/submit.jpg)
-
--![Submission Confirmation](/screenshots/query.jpg)
-
--![Submission Success](/screenshots/successful.jpg)
-
--![failed to submit](/screenshots/notsuccessful.jpg)
 
 ## Thank you GADS
 I'd like to thank **Google**, **Andela**, **Pluralsight** and *every single individual* that helped in bringing this learning experience to Africa developers. Thank you!
+
+
 
